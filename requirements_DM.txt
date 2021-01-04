@@ -1,0 +1,6 @@
+category-encoders >= 2.2.2
+factor-analyzer >= 0.3.2
+pyclustertend >= 1.4.9         
+SOMPY >= 1.1.1          
+
+     
